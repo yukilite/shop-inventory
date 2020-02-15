@@ -1,6 +1,7 @@
-apples
 banana
-carrot
+cheese
+beans
 dates
 egg
 fish
+grapes
