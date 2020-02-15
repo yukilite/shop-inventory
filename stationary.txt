@@ -6,3 +6,4 @@ pencil
 paper clips
 stapler
 sharpeners
+Thumb tacks
